@@ -20,6 +20,9 @@ Durante la actividad deberás trabajar únicamente en las secciones indicadas co
 4. Obtener una cantidad determinada de elementos.
 5. Buscar productos por nombre.
 
+| [Ejercicio 1](./ejercicio-1.md) | [Ejercicio 2](./ejercicio-2.md) | [Ejercicio 3](./ejercicio-3.md) | [Ejercicio 4](./ejercicio-4.md) | [Ejercicio 5](./ejercicio-5.md) |
+|:---:|:---:|:---:|:---:|:---:|
+
 ## Importante
 
 Los ejemplos incluidos en los archivos `.md` utilizan **otros contextos y datos**. Su objetivo es mostrar cómo funcionan las herramientas necesarias, pero no contienen la solución directa de los ejercicios.
